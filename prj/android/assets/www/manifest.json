@@ -1,0 +1,28 @@
+{
+  "name": "ar.com.mediatel.totemviewer",
+  "short_name": "totemviewer",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "index.html",
+  "xwalk_app_version": "0.1",
+  "xwalk_command_line": "",
+  "xwalk_package_id": "ar.com.mediatel.totemviewer",
+  "xwalk_target_platforms": [
+    "android"
+  ],
+  "xwalk_android_animatable_view": false,
+  "xwalk_android_keep_screen_on": false,
+  "xwalk_android_permissions": [
+    "ACCESS_NETWORK_STATE",
+    "ACCESS_WIFI_STATE",
+    "INTERNET"
+  ],
+  "xwalk_windows_update_id": "97679138-0145-1027-0129-170944979044",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "72x72"
+    }
+  ]
+}
